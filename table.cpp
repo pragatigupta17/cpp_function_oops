@@ -8,7 +8,7 @@ void table(int n,int a)
     cout<<n*a<<"\t";
     table(n,a+1);
 }
-int main()
+int main();
 {
     int x;
     cout<<"enter no:"<<"\n";
